@@ -1,6 +1,6 @@
 ## Hi there, I'm Taylor 👋
 
- I am currerntly a first year student studying for a Bachelor of Science degree in Computer Science at Wright State University!
+ I am currerntly a first year student at Wright State University studying for a Bachelor of Science degree in Computer Science!
 
  ### Programming Languages 💻
 
