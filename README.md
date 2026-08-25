@@ -1,10 +1,10 @@
 ## Hi there, I'm Taylor 👋
 
- I am currerntly a first year student at Wright State University studying for a Bachelor of Science degree in Computer Science!
+ I am currerntly a second year student at Wright State University studying for a Bachelor of Science degree in Computer Science!
 
  ### Programming Languages 💻
 
- I am currently learning and taking courses in **Java**. In the past, I have learned a bit of **Python**.
+ I am currently learning and taking courses in **Assembly**. Just recently I have learned **Java**. In the past, I have learned a bit of **Python**.
 
  ### Projects
 
