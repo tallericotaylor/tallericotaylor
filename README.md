@@ -2,20 +2,24 @@
 
  I am currerntly a second year student at Wright State University studying for a Bachelor of Science degree in Computer Science!
 
- ### Programming Languages 💻
+ ### Languages I'm Learning 👩‍💻 📚
 
- I am currently learning and taking courses in **Assembly**. Just recently I have learned **Java**. In the past, I have learned a bit of **Python**.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-4E5D6C?style=for-the-badge)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
  ### Projects
 
- #### Catacomb Crawler (Java)
-   This creates a maze/grid (5-10) in which monsters are spread around the map.
-   The players' goal is to make it to the exit with >0 health remaining.
+ #### SOC 0 & SOC 1💻 🛜
+  I'm currently working on SOC0 to learn pre-security basics.
+  Then I will start SOC1 to futher pursue my interest in cybersecurity.
 
-#### Lemonade Stand
-  This is a project I am currently working on. 
+#### Lemonade Stand 🍋 🎮
+  This is a project I have completed for my java class.
   There are 3 levels with different drink orders that the player has to make correctly.
   The player needs a certain percentage score to move on to the next level.
+  I plan to make changes to the game for practice and a better outcome of the game
 
 
    
