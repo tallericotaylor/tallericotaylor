@@ -16,11 +16,8 @@
   Then I will start SOC1 to futher pursue my interest in cybersecurity.
 
 #### Lemonade Stand 🍋 🎮
-  This is a project I have completed for my java class.
-  There are 3 levels with different drink orders that the player has to make correctly.
-  The player needs a certain percentage score to move on to the next level.
-  I plan to make changes to the game for practice and a better outcome of the game
-
+  This is a Java GUI game.
+  The goal is to last until Day 7 without running out of money, materials, or making too many incorrect drinks.
 
    
  
