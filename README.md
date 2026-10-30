@@ -12,8 +12,8 @@
  ### Projects
 
  #### SOC 0 & SOC 1💻 🛜
-I have completed the Pre-Security (SOC 0) section from tryhackme.com
-I am currently work on Cybersecurity 101 (SOC 1) from tryhackme.com
+I have completed the Pre-Security (SOC 0) section from tryhackme.com.
+I am currently work on Cybersecurity 101 (SOC 1) from tryhackme.com.
 
 #### Lemonade Stand 🍋 🎮
   This is a Java GUI game.
